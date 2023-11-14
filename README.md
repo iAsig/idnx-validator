@@ -54,4 +54,4 @@ To use IDNX-Validator, call the respective function with the ID you want to vali
 - `validateIDNV('YourVehicleIDHere')`
 
 ## License
-IDNX-Validator is open-source and available under [LICENSE]. Feel free to use, modify, and distribute it as per the license terms.
+IDNX-Validator is open-source and available under [LICENSE](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
